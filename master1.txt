@@ -1,0 +1,3 @@
+This is my 2nd Git Bash Bang!
+
+gopal is a good guy
